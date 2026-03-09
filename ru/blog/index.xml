@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog | </title>
+    <link>https://davidniambi.github.io/ru/blog/</link>
+      <atom:link href="https://davidniambi.github.io/ru/blog/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blog</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://davidniambi.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Blog</title>
+      <link>https://davidniambi.github.io/ru/blog/</link>
+    </image>
+    
+    <item>
+      <title>Моя учебная неделя</title>
+      <link>https://davidniambi.github.io/ru/blog/01/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://davidniambi.github.io/ru/blog/01/</guid>
+      <description>&lt;h2 id=&#34;-итоги-недели&#34;&gt;📅 Итоги недели&lt;/h2&gt;
+&lt;p&gt;Эта неделя в университете прошла активно и продуктивно. Каждый день приносил новые знания, интересные задачи и возможность лучше понять, как информационные технологии используются в современном бизнесе.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🎓 На занятиях по &lt;strong&gt;бизнес-информатике&lt;/strong&gt; мы обсуждали роль информационных систем в управлении компаниями и цифровой экономике. Это помогло лучше понять, как технологии помогают оптимизировать бизнес-процессы.&lt;/li&gt;
+&lt;li&gt;📊 На практических занятиях разбирали основы &lt;strong&gt;анализа данных&lt;/strong&gt; и учились работать с информацией для принятия решений.&lt;/li&gt;
+&lt;li&gt;💻 Продолжал изучать &lt;strong&gt;основы программирования&lt;/strong&gt;, практиковался в написании простых программ и старался лучше понимать логику кода.&lt;/li&gt;
+&lt;li&gt;🌐 Узнал больше о &lt;strong&gt;цифровых платформах и информационных системах&lt;/strong&gt;, которые используются в различных сферах бизнеса.&lt;/li&gt;
+&lt;li&gt;🤝 Работал над учебными заданиями и небольшими проектами вместе с однокурсниками, что помогло развить навыки командной работы.&lt;/li&gt;
+&lt;li&gt;🌿 В свободное время старался отдыхать, гулять и немного заниматься самообразованием, читая материалы о современных IT-технологиях.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Каждая учебная неделя помогает мне лучше понять направление &lt;strong&gt;бизнес-информатики&lt;/strong&gt;, развивать навыки работы с технологиями и постепенно двигаться к будущей профессии в сфере IT и аналитики.&lt;/p&gt;
+&lt;p&gt;А как прошла ваша неделя? 😊&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
