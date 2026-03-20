@@ -5,12 +5,33 @@
     <link>https://davidniambi.github.io/ru/publications/</link>
       <atom:link href="https://davidniambi.github.io/ru/publications/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Fri, 20 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://davidniambi.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
       <title>Publications</title>
       <link>https://davidniambi.github.io/ru/publications/</link>
     </image>
+    
+    <item>
+      <title>Легковесные языки разметки</title>
+      <link>https://davidniambi.github.io/ru/publications/02/</link>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://davidniambi.github.io/ru/publications/02/</guid>
+      <description>&lt;h2 id=&#34;-легковесные-языки-разметки&#34;&gt;📝 Легковесные языки разметки&lt;/h2&gt;
+&lt;p&gt;На этой неделе я познакомился с понятием &lt;strong&gt;легковесных языков разметки&lt;/strong&gt; — удобных инструментов для структурирования текста без сложного синтаксиса.&lt;/p&gt;
+&lt;p&gt;Легковесные языки разметки используются для быстрого форматирования текста и широко применяются в разработке, документации и обучении.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📄 Самый популярный пример — &lt;strong&gt;Markdown&lt;/strong&gt;. Он позволяет легко создавать заголовки, списки, ссылки и форматировать текст без лишней сложности.&lt;/li&gt;
+&lt;li&gt;⚡ Главное преимущество — &lt;strong&gt;простота и читаемость&lt;/strong&gt;: текст остаётся понятным даже без обработки.&lt;/li&gt;
+&lt;li&gt;💻 Такие языки активно используются в &lt;strong&gt;GitHub, блогах, документации и заметках&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;🔧 Я попробовал создавать документы с помощью Markdown и понял, насколько это удобно для структурирования информации.&lt;/li&gt;
+&lt;li&gt;🌐 Также узнал о других вариантах, например, &lt;strong&gt;reStructuredText&lt;/strong&gt; и &lt;strong&gt;Asciidoc&lt;/strong&gt;, которые применяются в более сложных проектах.&lt;/li&gt;
+&lt;li&gt;📚 Использование лёгковесных языков помогает быстрее писать и оформлять материалы без необходимости изучать HTML.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;В целом, знакомство с лёгковесными языками разметки показало, что даже простые инструменты могут значительно упростить работу с текстом и повысить продуктивность.&lt;/p&gt;
+&lt;p&gt;А вы используете Markdown или другие языки разметки? 😊&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Непрерывное развертывание и CI/CD</title>

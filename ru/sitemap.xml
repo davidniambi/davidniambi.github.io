@@ -54,29 +54,13 @@
       href="https://davidniambi.github.io/ru/courses/hugo-blox/guide/configuration/"
     /></url>
   <url>
-    <loc>https://davidniambi.github.io/ru/tags/academic/</loc><lastmod>2026-03-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://davidniambi.github.io/tags/academic/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://davidniambi.github.io/ru/tags/academic/"
-    /></url>
+    <loc>https://davidniambi.github.io/ru/tags/business-informatics/</loc><lastmod>2026-03-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://davidniambi.github.io/ru/blog/</loc><lastmod>2026-03-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://davidniambi.github.io/blog/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://davidniambi.github.io/ru/blog/"
-    /></url>
+    <loc>https://davidniambi.github.io/ru/tags/it/</loc><lastmod>2026-03-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://davidniambi.github.io/ru/tags/business-informatics/</loc><lastmod>2026-03-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://davidniambi.github.io/ru/tags/markup-languages/</loc><lastmod>2026-03-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://davidniambi.github.io/ru/publications/</loc><lastmod>2026-03-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://davidniambi.github.io/ru/publications/</loc><lastmod>2026-03-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
       href="https://davidniambi.github.io/publications/"
@@ -86,9 +70,9 @@
       href="https://davidniambi.github.io/ru/publications/"
     /></url>
   <url>
-    <loc>https://davidniambi.github.io/ru/tags/student-life/</loc><lastmod>2026-03-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://davidniambi.github.io/ru/tags/student-life/</loc><lastmod>2026-03-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://davidniambi.github.io/ru/tags/</loc><lastmod>2026-03-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://davidniambi.github.io/ru/tags/</loc><lastmod>2026-03-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
       href="https://davidniambi.github.io/tags/"
@@ -97,6 +81,30 @@
       hreflang="ru"
       href="https://davidniambi.github.io/ru/tags/"
     /></url>
+  <url>
+    <loc>https://davidniambi.github.io/ru/publications/02/</loc><lastmod>2026-03-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://davidniambi.github.io/ru/tags/academic/</loc><lastmod>2026-03-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://davidniambi.github.io/tags/academic/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://davidniambi.github.io/ru/tags/academic/"
+    /></url>
+  <url>
+    <loc>https://davidniambi.github.io/ru/blog/</loc><lastmod>2026-03-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://davidniambi.github.io/blog/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://davidniambi.github.io/ru/blog/"
+    /></url>
+  <url>
+    <loc>https://davidniambi.github.io/ru/blog/02/</loc><lastmod>2026-03-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://davidniambi.github.io/ru/blog/01/</loc><lastmod>2026-03-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>

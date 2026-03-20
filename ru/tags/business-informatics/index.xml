@@ -5,12 +5,53 @@
     <link>https://davidniambi.github.io/ru/tags/business-informatics/</link>
       <atom:link href="https://davidniambi.github.io/ru/tags/business-informatics/index.xml" rel="self" type="application/rss+xml" />
     <description>Business Informatics</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Fri, 20 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://davidniambi.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
       <title>Business Informatics</title>
       <link>https://davidniambi.github.io/ru/tags/business-informatics/</link>
     </image>
+    
+    <item>
+      <title>Легковесные языки разметки</title>
+      <link>https://davidniambi.github.io/ru/publications/02/</link>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://davidniambi.github.io/ru/publications/02/</guid>
+      <description>&lt;h2 id=&#34;-легковесные-языки-разметки&#34;&gt;📝 Легковесные языки разметки&lt;/h2&gt;
+&lt;p&gt;На этой неделе я познакомился с понятием &lt;strong&gt;легковесных языков разметки&lt;/strong&gt; — удобных инструментов для структурирования текста без сложного синтаксиса.&lt;/p&gt;
+&lt;p&gt;Легковесные языки разметки используются для быстрого форматирования текста и широко применяются в разработке, документации и обучении.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📄 Самый популярный пример — &lt;strong&gt;Markdown&lt;/strong&gt;. Он позволяет легко создавать заголовки, списки, ссылки и форматировать текст без лишней сложности.&lt;/li&gt;
+&lt;li&gt;⚡ Главное преимущество — &lt;strong&gt;простота и читаемость&lt;/strong&gt;: текст остаётся понятным даже без обработки.&lt;/li&gt;
+&lt;li&gt;💻 Такие языки активно используются в &lt;strong&gt;GitHub, блогах, документации и заметках&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;🔧 Я попробовал создавать документы с помощью Markdown и понял, насколько это удобно для структурирования информации.&lt;/li&gt;
+&lt;li&gt;🌐 Также узнал о других вариантах, например, &lt;strong&gt;reStructuredText&lt;/strong&gt; и &lt;strong&gt;Asciidoc&lt;/strong&gt;, которые применяются в более сложных проектах.&lt;/li&gt;
+&lt;li&gt;📚 Использование лёгковесных языков помогает быстрее писать и оформлять материалы без необходимости изучать HTML.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;В целом, знакомство с лёгковесными языками разметки показало, что даже простые инструменты могут значительно упростить работу с текстом и повысить продуктивность.&lt;/p&gt;
+&lt;p&gt;А вы используете Markdown или другие языки разметки? 😊&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моя учебная неделя</title>
+      <link>https://davidniambi.github.io/ru/blog/02/</link>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://davidniambi.github.io/ru/blog/02/</guid>
+      <description>&lt;h2 id=&#34;-итоги-недели&#34;&gt;📅 Итоги недели&lt;/h2&gt;
+&lt;p&gt;Эта неделя в университете прошла насыщенно и результативно. Получилось не только углубить знания, но и закрепить их на практике.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🎓 На занятиях по &lt;strong&gt;бизнес-информатике&lt;/strong&gt; мы подробнее изучали, как информационные системы поддерживают принятие управленческих решений и повышают эффективность бизнеса.&lt;/li&gt;
+&lt;li&gt;📊 На практике продолжили работу с &lt;strong&gt;анализом данных&lt;/strong&gt; — учились структурировать информацию и делать на её основе выводы.&lt;/li&gt;
+&lt;li&gt;💻 Продолжал развивать навыки в &lt;strong&gt;программировании&lt;/strong&gt;, писал более сложные задачи и лучше разбирался в логике алгоритмов.&lt;/li&gt;
+&lt;li&gt;🌐 Разобрали новые темы, связанные с &lt;strong&gt;цифровыми технологиями и платформами&lt;/strong&gt;, и их ролью в современной экономике.&lt;/li&gt;
+&lt;li&gt;🤝 Активно участвовал в командной работе над учебными заданиями — это помогло улучшить коммуникацию и распределение задач.&lt;/li&gt;
+&lt;li&gt;🌿 В свободное время старался сохранять баланс между учёбой и отдыхом: прогулки, лёгкое самообразование и чтение материалов по IT.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Эта неделя стала ещё одним шагом к пониманию профессии в сфере &lt;strong&gt;бизнес-информатики&lt;/strong&gt; и развитию навыков, необходимых для работы в IT и аналитике.&lt;/p&gt;
+&lt;p&gt;А как прошла ваша неделя? 😊&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя учебная неделя</title>
