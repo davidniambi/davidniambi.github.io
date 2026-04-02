@@ -5,12 +5,32 @@
     <link>https://davidniambi.github.io/ru/blog/</link>
       <atom:link href="https://davidniambi.github.io/ru/blog/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 14 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 21 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://davidniambi.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
       <title>Blog</title>
       <link>https://davidniambi.github.io/ru/blog/</link>
     </image>
+    
+    <item>
+      <title>Моя учебная неделя</title>
+      <link>https://davidniambi.github.io/ru/blog/03/</link>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://davidniambi.github.io/ru/blog/03/</guid>
+      <description>&lt;h2 id=&#34;-итоги-недели&#34;&gt;📅 Итоги недели&lt;/h2&gt;
+&lt;p&gt;Эта неделя в университете прошла продуктивно и динамично. Удалось не только закрепить изученный материал, но и продвинуться в освоении новых тем.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🎓 На занятиях по &lt;strong&gt;бизнес-информатике&lt;/strong&gt; продолжили изучать применение информационных систем в управлении и рассмотрели реальные кейсы из бизнеса.&lt;/li&gt;
+&lt;li&gt;📊 В рамках практики по &lt;strong&gt;анализу данных&lt;/strong&gt; работали с более сложными наборами данных и учились находить закономерности.&lt;/li&gt;
+&lt;li&gt;💻 Углублял навыки в &lt;strong&gt;программировании&lt;/strong&gt; — решал задачи повышенной сложности и улучшал понимание алгоритмов.&lt;/li&gt;
+&lt;li&gt;🌐 Изучили дополнительные аспекты &lt;strong&gt;цифровой трансформации&lt;/strong&gt; и влияние технологий на развитие компаний.&lt;/li&gt;
+&lt;li&gt;🤝 Продолжили &lt;strong&gt;командную работу&lt;/strong&gt;, распределяли роли в проекте и совершенствовали взаимодействие в группе.&lt;/li&gt;
+&lt;li&gt;🌿 Вне учёбы уделял время восстановлению: прогулки, чтение и небольшие практические задания для закрепления знаний.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Неделя получилась насыщенной и полезной — ещё один шаг вперёд в развитии в сфере &lt;strong&gt;бизнес-информатики&lt;/strong&gt; и IT.&lt;/p&gt;
+&lt;p&gt;А как прошла ваша неделя? 😊&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя учебная неделя</title>

@@ -5,12 +5,32 @@
     <link>https://davidniambi.github.io/ru/publications/</link>
       <atom:link href="https://davidniambi.github.io/ru/publications/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Fri, 20 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 21 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://davidniambi.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
       <title>Publications</title>
       <link>https://davidniambi.github.io/ru/publications/</link>
     </image>
+    
+    <item>
+      <title>Создание презентаций</title>
+      <link>https://davidniambi.github.io/ru/publications/03/</link>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://davidniambi.github.io/ru/publications/03/</guid>
+      <description>&lt;h2 id=&#34;-создание-презентаций&#34;&gt;📊 Создание презентаций&lt;/h2&gt;
+&lt;p&gt;На этой неделе особое внимание уделил развитию навыков создания презентаций — важного инструмента как в учебе, так и в будущей профессиональной деятельности.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🧠 Разобрался с принципами &lt;strong&gt;структурирования информации&lt;/strong&gt;: как выстроить логичный и понятный рассказ для аудитории.&lt;/li&gt;
+&lt;li&gt;🎨 Изучил основы &lt;strong&gt;визуального оформления&lt;/strong&gt; — минимализм, читаемость, правильное использование цветов и шрифтов.&lt;/li&gt;
+&lt;li&gt;📊 Практиковался в создании слайдов с &lt;strong&gt;графиками и диаграммами&lt;/strong&gt;, чтобы наглядно представлять данные.&lt;/li&gt;
+&lt;li&gt;💬 Освоил подходы к &lt;strong&gt;устному сопровождению презентации&lt;/strong&gt; — как говорить уверенно и удерживать внимание слушателей.&lt;/li&gt;
+&lt;li&gt;⚙️ Работал с инструментами для создания презентаций и изучал их дополнительные возможности.&lt;/li&gt;
+&lt;li&gt;🔄 Анализировал примеры хороших и плохих презентаций, чтобы лучше понимать, что делает выступление эффективным.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Этот опыт помог понять, что презентация — это не просто набор слайдов, а способ донести идею ясно, кратко и убедительно.&lt;/p&gt;
+&lt;p&gt;А вы часто делаете презентации? 😊&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Легковесные языки разметки</title>
