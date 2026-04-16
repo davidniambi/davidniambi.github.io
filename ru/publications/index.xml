@@ -5,12 +5,40 @@
     <link>https://davidniambi.github.io/ru/publications/</link>
       <atom:link href="https://davidniambi.github.io/ru/publications/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 21 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 04 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://davidniambi.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
       <title>Publications</title>
       <link>https://davidniambi.github.io/ru/publications/</link>
     </image>
+    
+    <item>
+      <title>Языки научного программирования</title>
+      <link>https://davidniambi.github.io/ru/publications/04/</link>
+      <pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://davidniambi.github.io/ru/publications/04/</guid>
+      <description>&lt;h2 id=&#34;-языки-научного-программирования&#34;&gt;🔬 Языки научного программирования&lt;/h2&gt;
+&lt;p&gt;Научное программирование играет ключевую роль в анализе данных, моделировании и решении сложных вычислительных задач. На этой неделе я уделил внимание изучению языков, которые активно используются в научной среде.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🐍 &lt;strong&gt;Python&lt;/strong&gt; — один из самых популярных языков благодаря своей простоте и мощным библиотекам для анализа данных, машинного обучения и визуализации.&lt;/li&gt;
+&lt;li&gt;📈 &lt;strong&gt;R&lt;/strong&gt; — специализированный язык для статистики и работы с данными, широко применяется в научных исследованиях и аналитике.&lt;/li&gt;
+&lt;li&gt;⚙️ &lt;strong&gt;MATLAB&lt;/strong&gt; — удобен для численных вычислений, моделирования и работы с матрицами, часто используется в инженерии.&lt;/li&gt;
+&lt;li&gt;🚀 &lt;strong&gt;Julia&lt;/strong&gt; — современный язык, сочетающий высокую производительность с простым синтаксисом, активно набирает популярность в научных кругах.&lt;/li&gt;
+&lt;li&gt;🧮 &lt;strong&gt;C/C++&lt;/strong&gt; — применяются там, где важна максимальная производительность, например, в симуляциях и высоконагруженных вычислениях.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Особое внимание уделяется не только синтаксису языков, но и экосистеме библиотек, инструментов и сообществу, которое их развивает.&lt;/p&gt;
+&lt;p&gt;📊 На практике научное программирование позволяет:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;обрабатывать большие объемы данных&lt;/li&gt;
+&lt;li&gt;строить математические модели&lt;/li&gt;
+&lt;li&gt;проводить эксперименты и симуляции&lt;/li&gt;
+&lt;li&gt;визуализировать результаты исследований&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Освоение таких инструментов — важный шаг для развития в сфере &lt;strong&gt;аналитики данных&lt;/strong&gt;, &lt;strong&gt;искусственного интеллекта&lt;/strong&gt; и &lt;strong&gt;бизнес-информатики&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Неделя получилась познавательной и дала хорошее понимание того, какие инструменты выбирать под разные задачи.&lt;/p&gt;
+&lt;p&gt;А какие языки используете вы? 😊&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Создание презентаций</title>

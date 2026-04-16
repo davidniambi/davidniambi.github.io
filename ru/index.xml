@@ -169,6 +169,54 @@
     </item>
     
     <item>
+      <title>Языки научного программирования</title>
+      <link>https://davidniambi.github.io/ru/publications/04/</link>
+      <pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://davidniambi.github.io/ru/publications/04/</guid>
+      <description>&lt;h2 id=&#34;-языки-научного-программирования&#34;&gt;🔬 Языки научного программирования&lt;/h2&gt;
+&lt;p&gt;Научное программирование играет ключевую роль в анализе данных, моделировании и решении сложных вычислительных задач. На этой неделе я уделил внимание изучению языков, которые активно используются в научной среде.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🐍 &lt;strong&gt;Python&lt;/strong&gt; — один из самых популярных языков благодаря своей простоте и мощным библиотекам для анализа данных, машинного обучения и визуализации.&lt;/li&gt;
+&lt;li&gt;📈 &lt;strong&gt;R&lt;/strong&gt; — специализированный язык для статистики и работы с данными, широко применяется в научных исследованиях и аналитике.&lt;/li&gt;
+&lt;li&gt;⚙️ &lt;strong&gt;MATLAB&lt;/strong&gt; — удобен для численных вычислений, моделирования и работы с матрицами, часто используется в инженерии.&lt;/li&gt;
+&lt;li&gt;🚀 &lt;strong&gt;Julia&lt;/strong&gt; — современный язык, сочетающий высокую производительность с простым синтаксисом, активно набирает популярность в научных кругах.&lt;/li&gt;
+&lt;li&gt;🧮 &lt;strong&gt;C/C++&lt;/strong&gt; — применяются там, где важна максимальная производительность, например, в симуляциях и высоконагруженных вычислениях.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Особое внимание уделяется не только синтаксису языков, но и экосистеме библиотек, инструментов и сообществу, которое их развивает.&lt;/p&gt;
+&lt;p&gt;📊 На практике научное программирование позволяет:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;обрабатывать большие объемы данных&lt;/li&gt;
+&lt;li&gt;строить математические модели&lt;/li&gt;
+&lt;li&gt;проводить эксперименты и симуляции&lt;/li&gt;
+&lt;li&gt;визуализировать результаты исследований&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Освоение таких инструментов — важный шаг для развития в сфере &lt;strong&gt;аналитики данных&lt;/strong&gt;, &lt;strong&gt;искусственного интеллекта&lt;/strong&gt; и &lt;strong&gt;бизнес-информатики&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Неделя получилась познавательной и дала хорошее понимание того, какие инструменты выбирать под разные задачи.&lt;/p&gt;
+&lt;p&gt;А какие языки используете вы? 😊&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моя учебная неделя</title>
+      <link>https://davidniambi.github.io/ru/blog/04/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://davidniambi.github.io/ru/blog/04/</guid>
+      <description>&lt;h2 id=&#34;-итоги-недели&#34;&gt;📅 Итоги недели&lt;/h2&gt;
+&lt;p&gt;Эта неделя выдалась интенсивной, но при этом дала ощутимый прогресс в учебе и практических навыках.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🎓 На занятиях по &lt;strong&gt;бизнес-информатике&lt;/strong&gt; сосредоточились на моделировании бизнес-процессов и их оптимизации с помощью IT-решений.&lt;/li&gt;
+&lt;li&gt;📊 В курсе &lt;strong&gt;анализа данных&lt;/strong&gt; начали применять методы визуализации, чтобы лучше интерпретировать результаты и делать выводы.&lt;/li&gt;
+&lt;li&gt;💻 Продолжил развивать навыки в &lt;strong&gt;программировании&lt;/strong&gt; — работал над задачами, связанными со структурами данных и их эффективным использованием.&lt;/li&gt;
+&lt;li&gt;🌐 Рассматривали примеры внедрения &lt;strong&gt;цифровых платформ&lt;/strong&gt; в компаниях и их влияние на конкурентоспособность.&lt;/li&gt;
+&lt;li&gt;🤝 В рамках &lt;strong&gt;командного проекта&lt;/strong&gt; активнее включился в обсуждение архитектуры решения и распределение задач стало более структурированным.&lt;/li&gt;
+&lt;li&gt;🌿 В свободное время старался соблюдать баланс: отдых, лёгкая физическая активность и повторение пройденного материала.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Неделя получилась продуктивной и помогла лучше связать теорию с практикой — движение вперёд продолжается.&lt;/p&gt;
+&lt;p&gt;А как прошла ваша неделя? 😊&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Моя учебная неделя</title>
       <link>https://davidniambi.github.io/ru/blog/03/</link>
       <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
@@ -783,30 +831,6 @@ Thank you for your attention! Feel free to reach out with questions or contribut
 &lt;/ol&gt;
 &lt;/div&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Pandas</title>
-      <link>https://davidniambi.github.io/ru/projects/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://davidniambi.github.io/ru/projects/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>https://davidniambi.github.io/ru/projects/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://davidniambi.github.io/ru/projects/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>https://davidniambi.github.io/ru/projects/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://davidniambi.github.io/ru/projects/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
     </item>
     
     <item>
